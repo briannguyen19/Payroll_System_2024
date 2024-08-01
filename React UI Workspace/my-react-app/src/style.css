@@ -1,0 +1,9 @@
+.message{
+    font-size: 2.0rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: red !important;
+    text-decoration: none;
+  }
